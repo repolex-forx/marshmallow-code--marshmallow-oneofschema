@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "marshmallow-code",
+  "repo": "marshmallow-oneofschema",
+  "versions": [
+    {
+      "commit": "6b25e361b7efa1992583a22f2e02178b1424d073",
+      "parsed_at": "2026-10-10T19:10:17.516859+00:00",
+      "filetree": "filetree/6b25e361b7efa1992583a22f2e02178b1424d073.nq.gz",
+      "blobs": [
+        "blob/92ec2bb600a1e1f3ad8666d355b485b696332790.nq.gz",
+        "blob/385ba6e739af9076c5a7fff34b6d60d2c80690f2.nq.gz",
+        "blob/f40ce91be5fa3ae6afbf5457462f0d87000e4f1b.nq.gz",
+        "blob/1488cbed7b41a3fcc7234a5f437294e97276fd6b.nq.gz",
+        "blob/29cee121fca37812003814714472cbc0c782ab44.nq.gz",
+        "blob/62413dd848750d4bd2593b1e71d833c030282981.nq.gz",
+        "blob/96d1cfdc462e2e5497bf63ae96ce7a9113042833.nq.gz",
+        "blob/cc8247581a736d34e05d17410001a359b2593aae.nq.gz",
+        "blob/74db1e74f17cd6c85e4801c4c93a2490a9b2d8bd.nq.gz",
+        "blob/4243505b31e668ca5290d3f5020708d3d86225e3.nq.gz",
+        "blob/394d6c260fc3196b66e37bfff9abeb709ed1596a.nq.gz",
+        "blob/c1cdc56b8d0af008a8a821b2cc8d287c12c712c8.nq.gz",
+        "blob/12d47065bcae744cff14aa7b5e0b5a4f73bbca18.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/fcd7f04dfef03b1ec7377f9707d448f9ff8bbf9a.nq.gz",
+        "blob/db456ff33a0b07356702c43817604a7c79df6502.nq.gz",
+        "blob/d0c0544cb6d322582669ce6d64cc8758a747d9e0.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
