@@ -1,0 +1,11 @@
+{
+  "org": "marshmallow-code",
+  "repo": "marshmallow-oneofschema",
+  "versions": [
+    {
+      "commit": "6b25e361b7efa1992583a22f2e02178b1424d073",
+      "tag": "",
+      "parsed_at": "2026-10-10T19:14:08.549769+00:00"
+    }
+  ]
+}
