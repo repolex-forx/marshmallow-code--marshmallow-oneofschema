@@ -93,4 +93,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [marshmallow-code/marshmallow-oneofschema](https://github.com/marshmallow-code/marshmallow-oneofschema)
 
 ---
-*Parsed on 2026-10-10 by [repolex](https://repolex.ai)*
+*Parsed on 2026-10-11 by [repolex](https://repolex.ai)*
